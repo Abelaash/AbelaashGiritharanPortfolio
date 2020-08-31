@@ -1,0 +1,23 @@
+#info{
+    margin: 0;
+    color: black;
+  }
+  
+  .desc {
+    width: 65%;
+    text-align: justify;
+    letter-spacing: 0px;
+  }
+  
+  .links {
+    font-size: 17pt;
+    margin-right: 35%;
+    text-align: right;
+    text-decoration: none;
+  }
+  
+  .links a {
+    border: 5px solid black;
+    padding: 7px;
+    text-decoration: none;
+  }
