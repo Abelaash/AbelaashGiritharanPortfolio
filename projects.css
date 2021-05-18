@@ -84,3 +84,21 @@
   border-radius: 3px;
   padding: 7px;
 }
+
+.worktitles {
+  margin-top: 4%;
+  font-weight: bold;
+  font-size: 16pt;
+}
+
+.workdesc {
+  font-size: 14pt;
+  font-weight: lighter;
+  margin-top: 25px;
+  width: 60%;
+  text-align: justify;
+}
+.page1 a.title {
+  font-size: 20px;
+  font-weight: none;
+}
